@@ -26,6 +26,8 @@ See [Porting Guide](http://docs.ansible.com/ansible/devel/porting_guides/porting
 - amazon
   * aws_caller_facts
   * aws_ses_identity_policy
+- heroku
+  * heroku_collaborator
 
 
 <a id="2.5"></a>
